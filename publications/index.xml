@@ -17,7 +17,8 @@
       <pubDate>Fri, 30 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>https://g894.github.io/publications/msc/</guid>
-      <description>Abstract The project presents an Excel based linear program model for operation and maintenance cost optimisation in offshore wind farm. This tool required Palisade Evolver to operate. The model is designed to optimise corrective maintenance tasks. In the model, has been designed to schedule a corrective maintenance task within 30 days after a failure occurred. there are few factor in the real world maintenance scheduling have been considered including: model of turbine, capacity factor, downtime cost rate, cost of vessel, cost of employee, weather.</description>
+      <description>Abstract The project presents an Excel based linear program model for operation and maintenance cost optimisation in offshore wind farm.
+This tool required Palisade Evolver to operate. The model is designed to optimise corrective maintenance tasks. In the model, has been designed to schedule a corrective maintenance task within 30 days after a failure occurred. there are few factor in the real world maintenance scheduling have been considered including: model of turbine, capacity factor, downtime cost rate, cost of vessel, cost of employee, weather.</description>
     </item>
     
     <item>

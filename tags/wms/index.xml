@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wms on Marcus Luo</title>
+    <link>https://g894.github.io/tags/wms/</link>
+    <description>Recent content in Wms on Marcus Luo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jun 2018 18:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://g894.github.io/tags/wms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>索尼(Sony)商用投影仪供应链金融仓储项目</title>
+      <link>https://g894.github.io/projects/creations/sony/</link>
+      <pubDate>Mon, 11 Jun 2018 18:41:05 -0500</pubDate>
+      
+      <guid>https://g894.github.io/projects/creations/sony/</guid>
+      <description>在该项目中我独立管理着价值超过10万美元的库存，工作中使用了ERP与WMS与上下游进行对接。
+除了在进行日常的出入库管理之外，我还整理出原本该岗位不具备的PSOM（Personal Stanard Operation Manual），优化了该岗位的工作流程。</description>
+    </item>
+    
+  </channel>
+</rss>
